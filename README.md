@@ -1,6 +1,6 @@
 ### Olá! Me chamo Carlos Araújo 🐮
 
-Atualmente estudo ciência da computação na Universidade Federal do Ceará (UFC).
+* Atualmente estudo ciência da computação na Universidade Federal do Ceará (UFC).
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ara%C3%BAjo-46a35a272/)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/viniciodantas07)
@@ -18,4 +18,4 @@ Atualmente estudo ciência da computação na Universidade Federal do Ceará (UF
     <img style="margin-bottom: 8px;" align="center" alt="html5" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 </div><br/>
 
-Um jovem programador, recorrendo à gambiarra sempre que necessário e vivendo a base de café fraco.
+* Um jovem programador, recorrendo à gambiarra sempre que necessário e vivendo a base de café fraco.
