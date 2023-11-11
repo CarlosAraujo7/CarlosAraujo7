@@ -4,7 +4,6 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ara%C3%BAjo-46a35a272/)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/viniciodantas07)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosaraujo7&show_icons=true&theme=transparent)
 ![Bar](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaraujo7&hide_progress=true)
 ### Tecnologias que uso no meu dia a dia
 <div style="display: inline_block">
