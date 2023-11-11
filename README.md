@@ -14,10 +14,8 @@
     <img style="margin-bottom: 10px;" align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img style="margin-bottom: 10px;" align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img style="margin-bottom: 10px;" align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img style="margin-bottom: 10px;" align="center" alt="html5" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
     <img style="margin-bottom: 10px;" align="center" alt="html5" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
     <img style="margin-bottom: 10px;" align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img style="margin-bottom: 10px;" align="center" alt="html5" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
     <img style="margin-bottom: 10px;" align="center" alt="html5" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 </div>
 
