@@ -18,4 +18,4 @@
     <img style="margin-bottom: 8px;" align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div><br/>
 
-* Um jovem programador, recorrendo à gambiarra sempre que necessário e vivendo a base de café fraco.
+* Um jovem pesquisador e programador, recorrendo à gambiarra sempre que necessário e vivendo a base de café fraco.
