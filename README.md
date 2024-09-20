@@ -1,9 +1,10 @@
 ### Olá! Me chamo Carlos Araújo 🐮
 
-* Atualmente estudo Ciência da Computação na Universidade Federal do Ceará (UFC).
+* Estou terminando meu bacharelado em Ciência da Computação na Universidade Federal do Ceará (UFC). Atualmente, trabalho com pesquisas voltadas para a remoção (descomissionamento) de plataformas de óleo e gás no oceano e com problemas de otimização da literatura, como o Problema da Diversidade Máxima e o Problema do Corte Máximo.
+
+* Especializações: Aprendizado de Máquina, Teoria dos Grafos, Otimização Combinatória.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ara%C3%BAjo-46a35a272/)
-[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/viniciodantas07)
 
 ![Bar](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaraujo7&hide_progress=true)
 ### Tecnologias que uso no meu dia a dia
