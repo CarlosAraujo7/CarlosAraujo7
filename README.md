@@ -4,7 +4,7 @@
 
 * Especializações: Aprendizado de Máquina, Teoria dos Grafos, Otimização Combinatória.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ara%C3%BAjo-46a35a272/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-araraujo/)
 
 ![Bar](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaraujo7&hide_progress=true)
 ### Tecnologias que uso no meu dia a dia
