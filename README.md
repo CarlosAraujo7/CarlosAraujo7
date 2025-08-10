@@ -1,4 +1,4 @@
-### Opa, bom dia! Prazer, sou o Carlos 🤝🏻
+### Opa, tudo bem! Prazer, sou o Carlos 🤝🏻
 
 * Sou bacharel em Ciência da Computação pela Universidade Federal do Ceará (UFC). Atualmente, trabalho com pesquisas voltadas para a remoção (descomissionamento) de plataformas de óleo e gás no oceano e com problemas de otimização da literatura, como o Problema da Diversidade Máxima e o Problema do Corte Máximo.
 
